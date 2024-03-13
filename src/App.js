@@ -5,7 +5,7 @@ import MovieCard from './MovieCard';
 
 //1d869134
 
-const API_URL = 'http://www.omdbapi.com/?apikey=';
+const API_URL = 'http://www.omdbapi.com/?apikey=1d869134';
 
 
 
